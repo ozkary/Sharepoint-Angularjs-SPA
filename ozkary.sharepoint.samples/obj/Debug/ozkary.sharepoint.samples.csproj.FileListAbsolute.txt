@@ -1,0 +1,4 @@
+C:\Users\ozkary\documents\visual studio 2013\Projects\ozkary.sharepoint.samples\ozkary.sharepoint.samples\bin\Debug\ozkary.sharepoint.samples.pdb
+C:\Users\ozkary\documents\visual studio 2013\Projects\ozkary.sharepoint.samples\ozkary.sharepoint.samples\obj\Debug\ozkary.sharepoint.samples.dll
+C:\Users\ozkary\documents\visual studio 2013\Projects\ozkary.sharepoint.samples\ozkary.sharepoint.samples\obj\Debug\ozkary.sharepoint.samples.pdb
+C:\Users\ozkary\Documents\Visual Studio 2013\Projects\ozkary.sharepoint.samples\ozkary.sharepoint.samples\obj\Debug\ozkary.sharepoint.samples.csprojResolveAssemblyReference.cache
